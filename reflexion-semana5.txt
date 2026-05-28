@@ -1,0 +1,2 @@
+permiten conectar diferentes sistemas informáticos para que la información fluya de forma automática, estructurada y en tiempo real
+estas apis permiten crear copias de seguridad, entornos seguros que se pueden replicar en segundos atraves de canales de facil acceso como aplicaciones y plataformas digitales

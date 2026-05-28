@@ -1,0 +1,2 @@
+esta ruta sirve para enviar cambios y reportes a la web
+esto serviria en una aplicacion comunitaria pra manterner la interfaz entre los servidores  
